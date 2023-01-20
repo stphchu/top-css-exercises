@@ -1,0 +1,24 @@
+.odd 
+    {
+        background-color: #ffc0cb;
+        font-family: "Veranda", "DejaVu Sans", sans-serif;
+    }
+
+
+#num-2
+    {
+        color: #0000ff;
+        font-size: 36px;
+    }
+
+.odd.cooler 
+{
+    font-size: 24px;
+}
+
+#num-4
+    {
+        background-color: #90ee90;
+        font-weight: bold;
+        font-size: 24px;
+    }
